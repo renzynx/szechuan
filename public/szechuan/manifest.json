@@ -1,0 +1,13 @@
+{
+  "themes/szechuan/css/app.css": {
+    "file": "assets/app-CEiPmwiX.css",
+    "src": "themes/szechuan/css/app.css",
+    "isEntry": true
+  },
+  "themes/szechuan/js/app.js": {
+    "file": "assets/app-rZxx_yNx.js",
+    "name": "app",
+    "src": "themes/szechuan/js/app.js",
+    "isEntry": true
+  }
+}
